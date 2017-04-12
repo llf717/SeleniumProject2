@@ -1,0 +1,9 @@
+testcases\CreateSupplyManagementRecord.class
+utility\utills.class
+testcases\TestReadCSV.class
+testcases\CreateSupplyRegisterRecord.class
+testcases\CreateSupplyManagementRecordfromexcel.class
+utility\Contants.class
+utility\Log.class
+testcases\test1.class
+utility\ExcelData.class
